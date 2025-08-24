@@ -1,11 +1,13 @@
 import React from "react";
 import "./App.css";
-import LoginForm from "./LoginForm";
+// import LoginForm from "./LoginForm";
+import LoginPractice from "./LoginPractice";
 
 function App() {
   return (
     <div>
-      <LoginForm />
+      {/* <LoginForm /> */}
+      <LoginPractice />
     </div>
   );
 }
