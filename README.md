@@ -1,12 +1,37 @@
-# React + Vite
+# 🚀 React Login Form with Validation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Login Form** built with **React** and **Tailwind CSS**, featuring real-time form validation.  
+This project demonstrates how to validate user input (email & password) with error handling and smooth UI feedback.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
 
-## Expanding the ESLint configuration
+![Login Form Screenshot](./screenshot.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- ✅ Email validation (required & correct format)
+- ✅ Password validation (required & min 6 characters)
+- ✅ Error messages with dynamic styles
+- ✅ Responsive and clean UI with Tailwind CSS
+- ✅ Alert on successful login
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React
+- 🎨 Tailwind CSS
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/login-form-validation.git
+   cd login-form-validation
+   ```
