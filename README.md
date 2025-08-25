@@ -32,6 +32,6 @@ This project demonstrates how to validate user input (email & password) with err
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/YOUR_USERNAME/login-form-validation.git
+   git clone https://github.com/F20RSEEN1M01023H/Login-Validation.git
    cd login-form-validation
    ```
